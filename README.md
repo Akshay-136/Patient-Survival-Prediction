@@ -1,8 +1,6 @@
  <h1 align='center'> 🚑 Patient Survival Prediction App </h1>
 
-<div align='center'>
-<img src="https://github.com/Retinpkumar/PatientSurvivalPrediction/blob/main/saved_files/images/app_recording.gif">
-</div>
+
 
 <h3 align='justify'> This app predicts whether a patient admitted to a hospital has a high risk of mortality or not. </h3>
 
